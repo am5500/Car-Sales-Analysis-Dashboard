@@ -19,7 +19,9 @@
 
 ## 🟠 الصفحة الأولى: Overview Page
 
-<img width="1313" height="770" alt="image" src="https://github.com/user-attachments/assets/dbff7c87-eebd-4800-b720-25ab56b6def2" />
+<img width="1311" height="735" alt="Screenshot 2026-02-25 144058" src="https://github.com/user-attachments/assets/c1eabec2-8db3-4d6c-93ee-7639b3cb9e75" />
+
+
 
 ### 🎯 الهدف:
 استعراض المؤشرات العامة لمبيعات السيارات لعامي **2014–2015**.
@@ -48,7 +50,8 @@
 
 ## 🟣 الصفحة الثانية: Condition & Pricing Page
 
-<img width="1313" height="768" alt="image" src="https://github.com/user-attachments/assets/755524fb-91f9-4930-b420-40c4b7455922" />
+<img width="1314" height="730" alt="Screenshot 2026-02-25 144105" src="https://github.com/user-attachments/assets/9296a509-9bb8-4788-892f-1a169668d5a7" />
+
 
 ### 🎯 الهدف:
 تحليل العلاقة بين **حالة السيارة (Condition)** و**سعر البيع (Price)**.
